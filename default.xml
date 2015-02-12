@@ -8,7 +8,8 @@
            review="https://gerrit.slimroms.net/"/>
            
   <remote  name="cm"
-           fetch="git://github.com/CyanogenMod" />
+           fetch="git://github.com/CyanogenMod" 
+           remote="cm" />
 
   <default revision="refs/tags/android-5.0.2_r1"
            remote="aosp"
